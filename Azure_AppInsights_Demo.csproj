@@ -36,20 +36,20 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="06-functions-queue-code.cs" />
-    <Content Include="client-side-npm.js" />
-    <Content Include="client-side-javascript.html" />
-    <None Include="06-functions-queue-code.json" />
-    <None Include="05-functions-code.json" />
-    <Compile Include="05-functions-code.cs" />
-    <Content Include="04-add-button-demo-api.html" />
-    <Compile Include="04-add-button-demo-api.cs" />
-    <None Include="03-add-client-side-viewimports.cshtml" />
-    <None Include="03-add-client-side-layouts.cshtml" />
-    <Compile Include="02-add-telemetry-startup.cs" />
-    <None Include="02-add-telemetry-json.json" />
-    <Content Include="01-Add-Package.txt" />
-    <Content Include="00-setup-project.txt" />
+    <Compile Include="Azure App Insight Demo\06-functions-queue-code.cs" />
+    <Content Include="Azure App Insight Demo\client-side-npm.js" />
+    <Content Include="Azure App Insight Demo\client-side-javascript.html" />
+    <None Include="Azure App Insight Demo\06-functions-queue-code.json" />
+    <None Include="Azure App Insight Demo\05-functions-code.json" />
+    <Compile Include="Azure App Insight Demo\05-functions-code.cs" />
+    <Content Include="Azure App Insight Demo\04-add-button-demo-api.html" />
+    <Compile Include="Azure App Insight Demo\04-add-button-demo-api.cs" />
+    <None Include="Azure App Insight Demo\03-add-client-side-viewimports.cshtml" />
+    <None Include="Azure App Insight Demo\03-add-client-side-layouts.cshtml" />
+    <Compile Include="Azure App Insight Demo\02-add-telemetry-startup.cs" />
+    <None Include="Azure App Insight Demo\02-add-telemetry-json.json" />
+    <Content Include="Azure App Insight Demo\01-Add-Package.txt" />
+    <Content Include="Azure App Insight Demo\00-setup-project.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
